@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'CascadeFurnace', // Usually your GitHub org/user name.
-  projectName: 'cascadefurnaccascadefurnace.github.io', // Usually your repo name.
+  projectName: 'cascadefurnace.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
